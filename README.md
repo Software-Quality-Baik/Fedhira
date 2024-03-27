@@ -2,7 +2,7 @@
 
 | No  | Judul Projek                                     | Introduction                                                                                                                  | Audience | Nama Pengujian          | Link SQA                                                                             |
 | --- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- | ------------------------------------------------------------------------------------ |
-| 1   | [Heal Hero Apps](https://http://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan dan melakukan pembelian obat. | User     | Pengujian1-cekkebugaran | [pengujian1](https://github.com/Software-Quality-Baik/Fedhira/tree/main/HealHeroApp) |
+| 1   | [Heal Hero Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan dan melakukan pembelian obat. | User     | Pengujian1-cekkebugaran | [pengujian1](https://github.com/Software-Quality-Baik/Fedhira/tree/main/HealHeroApp) |
 
 # Panduan Penggunaan
 
