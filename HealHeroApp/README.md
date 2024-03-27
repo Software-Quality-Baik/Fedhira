@@ -1,8 +1,8 @@
 # Deskripsi Pengujian
 
-| Objek Pengujian | Hasil      | Lampiran                                                      |
-| --------------- | ---------- | ------------------------------------------------------------- |
-| Cek Kebugaran   | Berhasil ✔ | [dokumentasi](<./pdf>) |
+| Objek Pengujian | Hasil      | Lampiran                                                                    |
+| --------------- | ---------- | --------------------------------------------------------------------------- |
+| Cek Kebugaran   | Berhasil ✔ | [dokumentasi](<./Test Plan Selenium Web Driver_1214028_Fedhira Syaila.pdf>) |
 
 # Panduan Penggunaan
 
